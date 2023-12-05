@@ -1,0 +1,77 @@
+.hero-header{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    padding: 3em;
+    background: linear-gradient(-45deg, rgba(229,93,135,.7), rgba(95,195,228,.7)), url(https://picsum.photos/g/2000/1200?image=443) center center / cover no-repeat;
+   
+}
+html{
+    scroll-behavior: smooth;
+}
+.my-5{
+    text-align: center;
+}
+.header-work, .my-skills h2  {
+    text-align: center !important;
+    margin-top:2em !important;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.me-left {
+    margin-left: auto !important;
+}
+.card{
+    margin:70px;
+    border: none;
+}
+.card-group{
+    margin-bottom:6em;
+}
+.my-skills .fa-solid{
+    font-size: 40px;
+    text-align: center;
+    padding: 1em;
+    color:#7f8fa6;
+
+}
+
+.about-me{
+
+
+    padding: 5em;
+    text-align: left;
+}
+.card-body-skill{
+
+    text-align:center;
+}
+.detail-about{
+    background:#718093;
+    color:#fff;
+}
+
+.detail-about p{
+    width:500px;
+}
+
+.fa-brands, .fab {
+    font-weight: 400;
+    font-size: 3em;
+    color:#0d6efd;
+}
+footer{
+    text-align: center;
+    font-size: 17px;
+    padding:1em;
+}
+
+.container.overflow-hidden.text-center{
+    margin-top: 2em;
+    width:400px;
+    padding: 0;
+
+}
+.fa-brands:hover, .fab :hover{
+    cursor: pointer;
+    color:#444;
+}
