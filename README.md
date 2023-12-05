@@ -29,6 +29,14 @@ MIT License
 ​
 - [Github Pages Guide](https://pages.github.com/)
 
+## Screenshot
+
+![Alt text](img/screenshot-app.png)
+
+## Deployed Application
+
+https://divine2192.github.io/bootscrap-portfolio/
+
 ## Copyright
 ​
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
